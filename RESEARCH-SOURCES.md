@@ -15,7 +15,7 @@ Research reviewed 21 November 2026. Public sources only. Artist approval is need
 - 2021-06 | Sarke | A musical family and the beginnings of Vivo: https://sarkenews.ge/2021/06/goga-meskhis-deda-chemi-meughle-gaqra-chemthvis-samqharo-chamoiqtsa-sabtchotha-estradis-varskvlavis-tskhovrebis-gza/
 - 2024 | Radio Fortuna | A new version of Chamotova featuring its composer: https://fortuna.ge/video-goga-meskhma-mamuka-charkvianis-simghera-chamotova-akhali-versiit-sheasrula-da-klipi-gadaigho/
 - 2026-04-04 | YOLO | Bella and Her Friends — charity concert listing: https://yolo.ge/en/poster/charity-concert-bella-and-her-friends434564565
-- 2016-01-25 | Radio Fortuna | Datuna Mgeladze recalls the band Vivo: https://fortuna.ge/dzalian-gamimarthla-radgan-shesarchevze-300-000-mde-adamiani-iyo-math-soris-bevri-qarthveli/
+- 2016-01-25 | Radio Fortuna | Datuna Mgeladze recalls the band Vivo: https://fortuna.ge/dzalian-gamimarthla-radgan-shesarchevze-300-000-mde-adamiani-iyo-math-shoris-bevri-qarthveli/
 - 2021-12-01 | Radio Fortuna | Davbrundebi — collaboration with Keti Chanturidze: https://fortuna.ge/duetad-ukve-didi-khania-chamovyalibdit-goga-meskhi-da-qeti-chanturidze-premierit-ar-daidardoshi-2/
 
 ## Recordings and credits

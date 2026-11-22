@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /build.py
+Disallow: /make_preview.py
+Disallow: /seo_check.py
+Disallow: /seo_keyword_audit.py
+Disallow: /*.md$
+
+Sitemap: https://gogameskhi.com/sitemap.xml
